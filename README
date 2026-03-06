@@ -1,7 +1,2 @@
-echo "# JAX-MiniGPT" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/upendrasinghchandel/JAX-MiniGPT.git
-git push -u origin main
+Mini-GPT (20 Million param) on JAX
+Building a GPT-2 style language model with 20 million parameters using JAX, the open-source numerical computing library, similar to NumPy, but adds automatic differentiation, just-in-time compilation, and the ability to scale training across thousands of CPUs, GPUs, and TPUs.
