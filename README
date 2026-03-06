@@ -1,2 +1,3 @@
 Mini-GPT (20 Million param) on JAX
 Building a GPT-2 style language model with 20 million parameters using JAX, the open-source numerical computing library, similar to NumPy, but adds automatic differentiation, just-in-time compilation, and the ability to scale training across thousands of CPUs, GPUs, and TPUs.
+Requirements
